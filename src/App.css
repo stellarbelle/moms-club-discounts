@@ -77,3 +77,31 @@ ul {
   padding: 0;
   text-align: left;
 }
+
+h1,
+h2 {
+  margin-bottom: 0.7rem;
+  font-family: "Alice", serif;
+  color: #f73378;
+}
+
+h2 {
+  margin-top: 0.7rem;
+  font-size: 3.5rem;
+}
+
+img {
+  width: 5rem;
+}
+
+.map {
+  height: 100%;
+  width: 50%;
+  margin: 2rem;
+}
+
+.map-container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
