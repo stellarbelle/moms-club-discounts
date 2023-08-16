@@ -22,13 +22,11 @@ import {
   Paper,
 } from "@mui/material";
 import arrow from "../public/feathered-arrow.png";
-import Map from "./MapContainer";
 
 interface Item {
   name: string;
   category: string;
   discount: string;
-  discount2?: string;
 }
 
 const categoryList: string[] = [];
@@ -73,13 +71,11 @@ function App() {
             </TableRow>
           </TableHead>
           <TableBody>
-            {filteredList.map((item) => {
+            {filteredList.map((item: Item) => {
               return (
                 <TableRow key={item.name}>
                   <TableCell>{item.name}</TableCell>
-                  <TableCell>
-                    {item.discount} {item.discount2 ? "-" : ""} {item.discount2}
-                  </TableCell>
+                  <TableCell>{item.discount}</TableCell>
                 </TableRow>
               );
             })}
@@ -136,7 +132,6 @@ function App() {
             </Select>
           </FormControl>
         </form>
-        <Map />
         <div className="list">{table || "Loading..."}</div>
       </div>
     </>
