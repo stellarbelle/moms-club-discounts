@@ -11,7 +11,7 @@ const categoryList: string[] = [];
 
 // const fetchData = async (name: string) => {
 //   let place: any = {};
-//   const baseURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${name}&key=AIzaSyBPwgAjsfJCRoR3nGFhZA8YzTzQNC7QUTw`;
+//   const baseURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${name}&key={apiKey}`;
 //   await axios
 //     .get(baseURL)
 //     .then((response: any) => {
