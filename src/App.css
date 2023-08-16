@@ -63,7 +63,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #48a7c1;
+  color: #087b9a;
 }
 #search-box {
   height: 25px;
@@ -111,5 +111,5 @@ img {
 .subheading {
   margin-top: 0;
   font-size: 18px;
-  color: #199bbe;
+  color: #f976a4;
 }
