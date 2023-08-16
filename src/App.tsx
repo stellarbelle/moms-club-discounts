@@ -72,6 +72,9 @@ function App() {
           </TableHead>
           <TableBody>
             {filteredList.map((item: Item) => {
+              if (categoryList.indexOf(item.category) === -1) {
+                categoryList.push(item.category);
+              }
               return (
                 <TableRow key={item.name}>
                   <TableCell>{item.name}</TableCell>

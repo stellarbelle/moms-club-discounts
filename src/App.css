@@ -57,11 +57,13 @@
   display: flex;
 }
 .search-text {
+  margin-top: 1.5rem;
   margin-right: 10px;
-  font-size: 22px;
+  font-size: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #48a7c1;
 }
 #search-box {
   height: 25px;
@@ -104,4 +106,10 @@ img {
   position: relative;
   height: 100%;
   width: 100%;
+}
+
+.subheading {
+  margin-top: 0;
+  font-size: 18px;
+  color: #199bbe;
 }
