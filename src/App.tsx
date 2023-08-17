@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { itemList } from "./assets/getPlaces";
-import list from "./assets/list.txt?raw";
+import list from "./assets/list.json";
 import "./App.css";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
@@ -23,23 +22,37 @@ import {
 } from "@mui/material";
 import arrow from "../public/feathered-arrow.png";
 
-interface Item {
+export interface Item {
   name: string;
   category: string;
   discount: string;
+  location: { lat: number; lng: number };
+  address?: string;
+  dist?: number;
+  phone?: string;
 }
+
+const placeList = (list as Item[]).filter((place, index) => {
+  const placeName = place.name;
+  const isDupe =
+    index ===
+    list.findIndex((obj) => {
+      return obj.name === placeName;
+    });
+  return isDupe;
+});
 
 const categoryList: string[] = [];
 
 function App() {
-  const [filteredList, setFilteredList] = useState(itemList());
+  const [filteredList, setFilteredList] = useState<Item[]>(placeList);
   const [value, setValue] = useState<string>("");
   const [selected, setSelected] = useState<string>("");
-
+  // const [center, setCenter] = useState();
   const getSelectedList = (value: string) => {
     setValue("");
-    if (!value.length) return list;
-    const updatedList = itemList().filter((item: Item) => {
+    if (!value.length) return placeList;
+    const updatedList = placeList.filter((item: Item) => {
       if (!value.length || value === "All") return item;
       if (item.category.indexOf(value) !== -1) {
         return item;
@@ -52,7 +65,7 @@ function App() {
     const query = e.target.value;
     setValue(query);
     setSelected("");
-    const updatedList = itemList().filter((item: Item) => {
+    const updatedList = placeList.filter((item: Item) => {
       if (item.name.toLowerCase().indexOf(query.toLowerCase()) !== -1) {
         return item;
       }
@@ -72,6 +85,24 @@ function App() {
           </TableHead>
           <TableBody>
             {filteredList.map((item: Item) => {
+              // let discount = item.discount;
+              // const hasEmail = discount.match(
+              //   /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
+              // );
+              // const phoneNumber = discount.match(
+              //   /^(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
+              // );
+
+              // if (phoneNumber) {
+              //   const arr = discount.split(phoneNumber[0]);
+              //   console.log("phone: ", phoneNumber);
+              //   discount =
+              //     arr[0] +
+              //     `<a html={href="tel:${phoneNumber[0]}"}>${phoneNumber[0]}</>` +
+              //     arr[1];
+              //   console.log("discount: ", discount);
+              // }
+
               if (categoryList.indexOf(item.category) === -1) {
                 categoryList.push(item.category);
               }
@@ -135,6 +166,7 @@ function App() {
             </Select>
           </FormControl>
         </form>
+        {/* <Map newCenter={center} /> */}
         <div className="list">{table || "Loading..."}</div>
       </div>
     </>

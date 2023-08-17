@@ -1,9 +1,41 @@
 import { GoogleMap, Marker, LoadScript } from "@react-google-maps/api";
-import { useMemo } from "react";
+import { useEffect, useState } from "react";
+import list from "./assets/list.json";
 import "./App.css";
+import { Item } from "./App";
 
-const Map = () => {
-  const center = useMemo(() => ({ lat: 34.055371, lng: -84.064106 }), []);
+const markerColor: Record<string, string> = {
+  "Spa/Salon/Health": "pink-dot",
+  "Entertainment & Education": "green-dot",
+  "Restaurants (all discounts do not include alcohol)": "red-dot",
+  "Shopping & Home Etc": "purple-dot",
+  "SAMC Family Businesses": "yellow-dot",
+};
+const townCenter = { lat: 34.055371, lng: -84.064106 };
+interface Location {
+  lat: number;
+  lng: number;
+}
+// const markers = list.map((item: Item, idx: number) => {
+//   const cat = item.category;
+//   const color: string = markerColor[cat];
+//   return (
+//     <Marker
+//       position={item.location}
+//       key={`pos ${item.name}${idx}`}
+//       icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
+//     />
+//   );
+// });
+const Map = (loc?: Location) => {
+  const [center, setCenter] = useState<Location>(townCenter);
+  console.log(center);
+  useEffect(() => {
+    if (loc) {
+      setCenter(loc);
+    }
+  }, [loc]);
+
   return (
     <div className="map">
       <LoadScript googleMapsApiKey="AIzaSyBPwgAjsfJCRoR3nGFhZA8YzTzQNC7QUTw">
@@ -12,10 +44,17 @@ const Map = () => {
           zoom={13}
           center={center}
         >
-          <Marker
-            position={{ lat: 34.055371, lng: -84.064106 }}
-            icon={"http://maps.google.com/mapfiles/ms/icons/pink-dot.png"}
-          />
+          {list.map((item: Item, idx: number) => {
+            const cat = item.category;
+            const color: string = markerColor[cat];
+            return (
+              <Marker
+                position={item.location}
+                key={`pos ${item.name}${idx}`}
+                icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
+              />
+            );
+          })}
         </GoogleMap>
       </LoadScript>
     </div>
