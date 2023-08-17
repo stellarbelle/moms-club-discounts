@@ -42,13 +42,22 @@ function deg2rad(deg: number) {
 const list = fs.readFileSync(`${__dirname}/list.txt`, "utf8");
 const townCenter = { lat: 34.055371, lng: -84.064106 };
 const radius = 16000;
-const categoryList: string[] = [];
+
+/*
+fetchData takes a location name and its category
+it then calls Google places API and returns the locations lat and lng
+it calcultales if it is within 15 miles of the Town Center coordinants
+and checks to see if the place is not permanently closed
+if not it creates and returns a new item and incldes location and address
+if API returns error, error is logged
+*/
+
 const fetchData = async (item: string[], category: string) => {
   const name = item[0];
   const baseURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${name}&key=AIzaSyBPwgAjsfJCRoR3nGFhZA8YzTzQNC7QUTw&circle:${radius}@${townCenter.lat},${townCenter.lng}`;
   const place = await axios
     .get(baseURL)
-    .then((response: { data: { results: res[] } }) => {
+    .then((response: { data: { results: results[] } }) => {
       const newItem: Item[] = [];
       response.data.results.forEach((res: results) => {
         const loc = res.geometry.location;
@@ -70,28 +79,33 @@ const fetchData = async (item: string[], category: string) => {
       });
       return newItem;
     })
-    .catch();
+    .catch((error) => {
+      console.error(error);
+    });
   return place;
 };
 
+/*
+itemList takes a list in a string format
+calls getItemsList which parses the string and splits on newline
+creating an array of strings containing place names and discounts
+iteratates over each place in the new array and splits name from discount
+it grabs and filters out the category from the list by checking if discount is present
+saves category as a veriable and passes item and current category into fetchData
+return an items list
+*/
 const itemList = async (list: string) => {
   let category: string;
   const getItemsList = async () => {
-    let itemList: Item[] = [];
     const items = list.split("\n");
     for (const item of items) {
       const newItem: string[] = item.split(/- (.*)/s);
       if (!newItem[1]) {
         category = newItem[0];
-        if (category && categoryList.indexOf(category) === -1) {
-          categoryList.push(category);
-        }
       } else {
-        const contructedItem = await fetchData(newItem, category);
-        itemList = itemList.concat(contructedItem);
+        await fetchData(newItem, category);
       }
     }
-    return itemList;
   };
   return await getItemsList();
 };
