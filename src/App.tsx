@@ -74,49 +74,47 @@ function App() {
   };
 
   const table = (
-    <Paper sx={{ width: "100%", overflow: "hidden" }}>
-      <TableContainer sx={{ maxHeight: 440 }}>
-        <Table stickyHeader aria-label="sticky table">
-          <TableHead>
-            <TableRow>
-              <TableCell>Business Name</TableCell>
-              <TableCell>Discount</TableCell>
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {filteredList.map((item: Item) => {
-              // let discount = item.discount;
-              // const hasEmail = discount.match(
-              //   /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
-              // );
-              // const phoneNumber = discount.match(
-              //   /^(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
-              // );
+    <TableContainer sx={{ maxHeight: 440, width: "100%", overflow: "scroll" }}>
+      <Table stickyHeader aria-label="sticky table">
+        <TableHead>
+          <TableRow>
+            <TableCell>Business Name</TableCell>
+            <TableCell>Discount</TableCell>
+          </TableRow>
+        </TableHead>
+        <TableBody>
+          {filteredList.map((item: Item) => {
+            // let discount = item.discount;
+            // const hasEmail = discount.match(
+            //   /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
+            // );
+            // const phoneNumber = discount.match(
+            //   /^(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
+            // );
 
-              // if (phoneNumber) {
-              //   const arr = discount.split(phoneNumber[0]);
-              //   console.log("phone: ", phoneNumber);
-              //   discount =
-              //     arr[0] +
-              //     `<a html={href="tel:${phoneNumber[0]}"}>${phoneNumber[0]}</>` +
-              //     arr[1];
-              //   console.log("discount: ", discount);
-              // }
+            // if (phoneNumber) {
+            //   const arr = discount.split(phoneNumber[0]);
+            //   console.log("phone: ", phoneNumber);
+            //   discount =
+            //     arr[0] +
+            //     `<a html={href="tel:${phoneNumber[0]}"}>${phoneNumber[0]}</>` +
+            //     arr[1];
+            //   console.log("discount: ", discount);
+            // }
 
-              if (categoryList.indexOf(item.category) === -1) {
-                categoryList.push(item.category);
-              }
-              return (
-                <TableRow key={item.name}>
-                  <TableCell>{item.name}</TableCell>
-                  <TableCell>{item.discount}</TableCell>
-                </TableRow>
-              );
-            })}
-          </TableBody>
-        </Table>
-      </TableContainer>
-    </Paper>
+            if (categoryList.indexOf(item.category) === -1) {
+              categoryList.push(item.category);
+            }
+            return (
+              <TableRow key={item.name}>
+                <TableCell>{item.name}</TableCell>
+                <TableCell>{item.discount}</TableCell>
+              </TableRow>
+            );
+          })}
+        </TableBody>
+      </Table>
+    </TableContainer>
   );
   return (
     <>
