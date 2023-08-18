@@ -25,7 +25,7 @@ export interface Item {
   name: string;
   category: string;
   discount: string;
-  location?: { lat: number; lng: number };
+  location: { lat: number; lng: number };
   address?: string;
   dist?: number;
   phone?: string;

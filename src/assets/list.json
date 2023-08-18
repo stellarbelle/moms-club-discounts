@@ -413,9 +413,11 @@
     "address": "31 Paper Mill Rd, Lawrenceville, GA 30046, United States"
   },
   {
-    "name": "Stevie Carter Hair",
+    "name": "Stevie Carter Hair ",
     "discount": "20% off all services and 10% off retail",
-    "category": "Spa/Salon/Health"
+    "category": "Spa/Salon/Health",
+    "location": { "lat": 34.04941, "lng": -84.05902 },
+    "address": "3725 Lawrenceville-Suwanee Rd Ste B1 Studio 3, Suwanee, GA 30024"
   },
   {
     "name": "The Complex (Buford)",
