@@ -18,7 +18,6 @@ import {
   TableRow,
   TableCell,
   Table,
-  Paper,
 } from "@mui/material";
 import arrow from "../public/feathered-arrow.png";
 
