@@ -1,5 +1,17 @@
 [
   {
+    "name": "Altitude Trampoline Park",
+    "discount": "10% off daily admissio",
+    "category": "Entertainment & Education",
+    "location": { "lat": 33.98011, "lng": -84.07528 },
+    "address": "5900 Sugarloaf Pkwy Suite 325, Lawrenceville, GA 30043"
+  },
+  {
+    "name": "Atlanta Party People",
+    "discount": "10% off personal events only. Does not apply to events for organizations.",
+    "category": "Entertainment & Education"
+  },
+  {
     "name": "AxeMaster Throwing",
     "discount": "10% off with code SMOMS10",
     "category": "Entertainment & Education",
@@ -16,65 +28,7 @@
   {
     "name": "Bouncy Zone Inflatables",
     "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9925385, "lng": -84.052649 },
-    "address": "953 Hawk Creek Trail, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.96295780000001, "lng": -84.0540947 },
-    "address": "1650 Lakes Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9632212, "lng": -84.0546423 },
-    "address": "1650 Lakes Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0390064, "lng": -84.08037949999999 },
-    "address": "3651 McGinnis Park Dr, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.1511714, "lng": -84.2480471 },
-    "address": "5735 N Commerce Ct Suite D, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.1442465, "lng": -84.2862645 },
-    "address": "3525 Muirfield Dr, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9174155, "lng": -84.2039989 },
-    "address": "5979 Goshen Springs Rd, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9614149, "lng": -84.20626390000001 },
-    "address": "5260 Peachtree Industrial Blvd, Norcross, GA 30071, United States"
-  },
-  {
-    "name": "Bouncy Zone Inflatables",
-    "discount": "$125+delivery for full day rental of any basic 15x15 bounce house- text (404) 353-0040",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.939121, "lng": -84.2332149 },
-    "address": "2999 Pacific Dr Suite C, Norcross, GA 30071, United States"
+    "category": "Entertainment & Education"
   },
   {
     "name": "Code Ninjas",
@@ -91,18 +45,16 @@
     "address": "1250 Scenic Hwy S Suite 1716, Lawrenceville, GA 30045, United States"
   },
   {
-    "name": "Code Ninjas",
-    "discount": "1 free \"Game Night\" when registering for CREATE or JR, for new customers only.",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.1618141, "lng": -84.1763035 },
-    "address": "2350 Atlanta Hwy Suite 106-107, Cumming, GA 30040, United States"
+    "name": "Disney On Ice",
+    "discount": "check w Kate or Windy Reeves",
+    "category": "Entertainment & Education"
   },
   {
-    "name": "Code Ninjas",
-    "discount": "1 free \"Game Night\" when registering for CREATE or JR, for new customers only.",
+    "name": "Georgia Aquarium (Atlanta)",
+    "discount": "club-exclusive ticket link on SAMC page",
     "category": "Entertainment & Education",
-    "location": { "lat": 34.0725706, "lng": -83.91225709999999 },
-    "address": "2130 Hamilton Creek Pkwy #107, Dacula, GA 30019, United States"
+    "location": { "lat": 18.34223, "lng": -66.258377 },
+    "address": "225 Baker St NW, Atlanta, GA 30313"
   },
   {
     "name": "Grabeat Golf Studio",
@@ -157,20 +109,6 @@
     "name": "Karate Atlanta",
     "discount": "5 classes + uniform for $25/25% off registration fees",
     "category": "Entertainment & Education",
-    "location": { "lat": 34.1020913, "lng": -84.2695919 },
-    "address": "13083 GA-9 #720, Milton, GA 30004, United States"
-  },
-  {
-    "name": "Karate Atlanta",
-    "discount": "5 classes + uniform for $25/25% off registration fees",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0687634, "lng": -83.91194039999999 },
-    "address": "3523 Braselton Hwy C1000, Dacula, GA 30019, United States"
-  },
-  {
-    "name": "Karate Atlanta",
-    "discount": "5 classes + uniform for $25/25% off registration fees",
-    "category": "Entertainment & Education",
     "location": { "lat": 34.1585551, "lng": -84.2384282 },
     "address": "4916 Atlanta Hwy, Alpharetta, GA 30004, United States"
   },
@@ -185,78 +123,8 @@
     "name": "Karate Atlanta",
     "discount": "5 classes + uniform for $25/25% off registration fees",
     "category": "Entertainment & Education",
-    "location": { "lat": 33.998618, "lng": -83.903663 },
-    "address": "465 Dacula Rd, Dacula, GA 30019, United States"
-  },
-  {
-    "name": "Karate Atlanta",
-    "discount": "5 classes + uniform for $25/25% off registration fees",
-    "category": "Entertainment & Education",
     "location": { "lat": 33.9947267, "lng": -84.1508818 },
     "address": "3379 Buford Hwy NE, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Karate Atlanta",
-    "discount": "5 classes + uniform for $25/25% off registration fees",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9550281, "lng": -84.2104961 },
-    "address": "3040 Business Park Drive STE C, Norcross, GA 30071, United States"
-  },
-  {
-    "name": "Karate Atlanta",
-    "discount": "5 classes + uniform for $25/25% off registration fees",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9188462, "lng": -84.25567029999999 },
-    "address": "7130 Buford Hwy NE suite A-130, Atlanta, GA 30340, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0578911, "lng": -84.0666806 },
-    "address": "341 Main St, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9736852, "lng": -84.0658055 },
-    "address": "1725 Spectrum Dr, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.134688, "lng": -84.1257437 },
-    "address": "4415 Front 9 Dr #300, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0655619, "lng": -84.0731392 },
-    "address": "345 Peachtree Industrial Blvd ste 1101, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0698816, "lng": -84.0686367 },
-    "address": "245 Peachtree Industrial Blvd, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0786699, "lng": -84.128098 },
-    "address": "5513 Old Atlanta Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Kindermusik @ Suwanee Academy of the Arts",
-    "discount": "free registration",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0395468, "lng": -84.0439241 },
-    "address": "302 Satellite Blvd c225, Suwanee, GA 30024, United States"
   },
   {
     "name": "Kindermusik @ Suwanee Academy of the Arts",
@@ -294,6 +162,18 @@
     "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043, United States"
   },
   {
+    "name": "Monster Jam",
+    "discount": "check w Kate or Windy Reeves",
+    "category": "Entertainment & Education"
+  },
+  {
+    "name": "Musical Keys Piano Studio (Angeline Holmes)",
+    "discount": "$10 off per month for in person or online piano lessons",
+    "category": "Entertainment & Education",
+    "location": { "lat": 34.07012, "lng": -84.0817 },
+    "address": "4520 Settles Bridge Rd, Suwanee, GA 30024"
+  },
+  {
     "name": "Paranoia Quest (Buford)",
     "discount": "10% off with code SMOMS10",
     "category": "Entertainment & Education",
@@ -301,7 +181,12 @@
     "address": "3333 Buford Dr, Buford, GA 30519, United States"
   },
   {
-    "name": "Rockin’ Jump (Buford)",
+    "name": "Peach State Cornhole",
+    "discount": "$20 off registration with online code SAMC (www.peachstatecornhole.com)",
+    "category": "Entertainment & Education"
+  },
+  {
+    "name": "Sky Zone Trampoline Park (Buford)",
     "discount": "20% off daily admission and party packages",
     "category": "Entertainment & Education",
     "location": { "lat": 34.0743412, "lng": -83.9884715 },
@@ -329,32 +214,11 @@
     "address": "225 Peachtree Industrial Blvd Ste. 104, Sugar Hill, GA 30518, United States"
   },
   {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
+    "name": "Six Flags Over GA/WhiteWater/Hurricane Harbor",
+    "discount": "discount thru Working Advantage",
     "category": "Entertainment & Education",
-    "location": { "lat": 34.0238254, "lng": -84.13917599999999 },
-    "address": "2615 Peachtree Industrial Blvd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0403047, "lng": -84.1010033 },
-    "address": "3990 Vista Point Ln, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9825073, "lng": -83.92947679999999 },
-    "address": "1700 Winder Hwy NE #100, Dacula, GA 30019, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.1868618, "lng": -84.1465814 },
-    "address": "133 Merchants Square, Cumming, GA 30040, United States"
+    "location": { "lat": 33.76759, "lng": -84.557037 },
+    "address": "275 Riverside Pkwy, Austell, GA 30168"
   },
   {
     "name": "Stars & Strikes (Buford)",
@@ -362,55 +226,6 @@
     "category": "Entertainment & Education",
     "location": { "lat": 34.0817959, "lng": -83.99798609999999 },
     "address": "1601 Horizon Pkwy, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.113191, "lng": -84.0738489 },
-    "address": "5700 Cumming Hwy NE Suite E, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0602702, "lng": -84.3256392 },
-    "address": "11490 Alpharetta Hwy, Roswell, GA 30076, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.00415700000001, "lng": -84.0390328 },
-    "address": "2133 Lawrenceville-Suwanee Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9600408, "lng": -84.2087835 },
-    "address": "5370 Peachtree Industrial Blvd, Norcross, GA 30071, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 34.0213526, "lng": -84.1502763 },
-    "address": "4120 Chattahoochee Trace, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9682985, "lng": -83.9963178 },
-    "address": "150 Hurricane Shoals Rd NW ste a, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Stars & Strikes (Buford)",
-    "discount": "free one hour game card",
-    "category": "Entertainment & Education",
-    "location": { "lat": 33.9565534, "lng": -83.9764357 },
-    "address": "31 Paper Mill Rd, Lawrenceville, GA 30046, United States"
   },
   {
     "name": "Stevie Carter Hair ",
@@ -441,11 +256,28 @@
     "address": "1145 Peachtree Industrial Blvd Unit B2, Suwanee, GA 30024, United States"
   },
   {
+    "name": "Tutor Doctor Suwanee",
+    "discount": "2 free hours with purchase of first 8 hours of tutoring",
+    "category": "Entertainment & Education"
+  },
+  {
     "name": "Urban Air (Lawrenceville/Snellville)",
     "discount": "$3 off Platinum, Ultimate or Deluxe packages",
     "category": "Entertainment & Education",
     "location": { "lat": 33.9019727, "lng": -84.0026397 },
     "address": "1200 Scenic Hwy S Suite G, Lawrenceville, GA 30045, United States"
+  },
+  {
+    "name": "Working Advantage",
+    "discount": "check with Kate for login/code",
+    "category": "Entertainment & Education"
+  },
+  {
+    "name": "7 Sisters Salon (Kristin Oliva)",
+    "discount": "$20 off first visit, $10 off after that",
+    "category": "Spa/Salon/Health",
+    "location": { "lat": 34.037243017944, "lng": -84.099785026209 },
+    "address": "Salon Suite 132, 1500 Peachtree Industrial Blvd #165, Suwanee, GA 30024"
   },
   {
     "name": "9Round Suwanee",
@@ -460,6 +292,13 @@
     "category": "Spa/Salon/Health",
     "location": { "lat": 33.9592039, "lng": -84.0053272 },
     "address": "558 Old Norcross Rd STE 101, Lawrenceville, GA 30046, United States"
+  },
+  {
+    "name": "Beautymode by Carrie (Carrie Clark)",
+    "discount": "$300 powder brows (reg price $375)",
+    "category": "Spa/Salon/Health",
+    "location": { "lat": 34.104264003273, "lng": -84.023717997607 },
+    "address": "4749 Nelson Brogdon Blvd BLD 100 Suite 17, Sugar Hill, GA 30518"
   },
   {
     "name": "C3 Fitness (Lawrenceville)",
@@ -497,20 +336,6 @@
     "address": "4749 Nelson Brogdon Blvd Building 100 Suite 4, Sugar Hill, GA 30518, United States"
   },
   {
-    "name": "Curls By Hilary, DevaCurl Specialist",
-    "discount": "10% off all services (770) 765-0535 / Muze Salon Suites (Sugar Hill)",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0598349, "lng": -83.99108059999999 },
-    "address": "Innovative Hair Designs Inc. A DevaCurl and Balayage Salon, 3189 Buford Dr Suite 1339, Studio 40, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Curls By Hilary, DevaCurl Specialist",
-    "discount": "10% off all services (770) 765-0535 / Muze Salon Suites (Sugar Hill)",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0930221, "lng": -84.0181882 },
-    "address": "1400 Buford Hwy NE Suite L7, Sugar Hill, GA 30518, United States"
-  },
-  {
     "name": "DL Nails/formerly Nifty Nails (Sugar Hill)",
     "discount": "10% off all services above $25 for walk-ins and 15% off for appointments, Monday-Thursday.",
     "category": "Spa/Salon/Health",
@@ -518,81 +343,25 @@
     "address": "5690 Cumming Hwy NE, Sugar Hill, GA 30518, United States"
   },
   {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0705185, "lng": -84.06809229999999 },
-    "address": "225 Peachtree Industrial Blvd #101, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1037833, "lng": -84.0234916 },
-    "address": "4749 Nelson Brogdon Blvd building 100, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0938676, "lng": -84.0174423 },
-    "address": "1400 Buford Hwy NE k3, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1106708, "lng": -84.03948989999999 },
-    "address": "5192 Nelson Brogdon Blvd #800, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.11279, "lng": -84.07337000000001 },
-    "address": "5690 Cumming Hwy NE, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1201674, "lng": -84.077508 },
-    "address": "5965 Cumming Hwy NE, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1037833, "lng": -84.02349149999999 },
-    "address": "4749 Nelson Brogdon Blvd, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Details Salon (Sugar Hill)",
-    "discount": "15% off beauty services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1038206, "lng": -84.02350460000001 },
-    "address": "4749 Nelson Brogdon Blvd Building 100 Suite 4, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Eye Site (Duluth/Buford/Oakwood)",
+    "name": "Eye Site (Duluth)",
     "discount": "special pricing on exams & glasses- contact Jennifer Slotwinski",
     "category": "Spa/Salon/Health",
     "location": { "lat": 34.0023526, "lng": -84.1435151 },
     "address": "3085 Buford Hwy NE, Duluth, GA 30096, United States"
   },
   {
-    "name": "Eye Site (Duluth/Buford/Oakwood)",
+    "name": "Eye Site (Buford)",
     "discount": "special pricing on exams & glasses- contact Jennifer Slotwinski",
     "category": "Spa/Salon/Health",
     "location": { "lat": 34.09643860000001, "lng": -84.0143794 },
     "address": "4420 Nelson Brogdon Blvd, Buford, GA 30518, United States"
   },
   {
-    "name": "Eye Site (Duluth/Buford/Oakwood)",
+    "name": "Eye Site (Oakwood)",
     "discount": "special pricing on exams & glasses- contact Jennifer Slotwinski",
     "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0205802, "lng": -84.1262969 },
-    "address": "2320 Peachtree Industrial Blvd suite 104, Duluth, GA 30097, United States"
+    "location": { "lat": 34.229843017752, "lng": -83.866194963393 },
+    "address": "3640 Mundy Mill Rd #146, Gainesville, GA 30504"
   },
   {
     "name": "Fades & Facials",
@@ -602,172 +371,11 @@
     "address": "4090 Johns Creek Pkwy # E, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.969004, "lng": -84.2571991 },
-    "address": "6365 Spalding Dr # C, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9915363, "lng": -84.27478459999999 },
-    "address": "2880 Holcomb Bridge Rd # 148, Alpharetta, GA 30022, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.8983839, "lng": -84.1414782 },
-    "address": "529 Indian Trail Lilburn Rd NW #2, Lilburn, GA 30047, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9668922, "lng": -84.0208236 },
-    "address": "860 Duluth Hwy suite 170, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9434318, "lng": -84.158554 },
-    "address": "4470 Satellite Blvd #105, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0220305, "lng": -84.14936709999999 },
-    "address": "2870 Peachtree Industrial Blvd STE E, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9886192, "lng": -83.898366 },
-    "address": "2464 Winder Hwy, Dacula, GA 30019, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9685531, "lng": -84.028928 },
-    "address": "1002 Duluth Hwy Suite 200, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.089231, "lng": -84.2644181 },
-    "address": "Phenix Salon Suites, 5530 Windward Pkwy Building 400E Suite# 134, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9214091, "lng": -84.0086864 },
-    "address": "The Landing, 3153 Sugarloaf Pkwy Suite 204, Lawrenceville, GA 30045, United States"
-  },
-  {
-    "name": "Fades & Facials",
-    "discount": "see ad on club page ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0891433, "lng": -84.2643329 },
-    "address": "Phenix Salon Suites, 5530 Windward Pkwy Building 400e Suite #132, Alpharetta, GA 30004, United States"
-  },
-  {
     "name": "Fifth & Mae Aveda Salon (Buford)",
     "discount": "stylist Shanell Anderson- various discounts ",
     "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0497795, "lng": -84.1767432 },
-    "address": "11033 Medlock Bridge Rd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0144307, "lng": -84.1862676 },
-    "address": "5960 State Bridge Rd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.04735280000001, "lng": -84.1777446 },
-    "address": "11033 Medlock Bridge Rd, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9709251, "lng": -84.0191902 },
-    "address": "870 Lawrenceville-Suwanee Rd, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9498395, "lng": -83.9908315 },
-    "address": "165 Nash St, Lawrenceville, GA 30045, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9750491, "lng": -83.9873783 },
-    "address": "624 Buford Dr, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.8995254, "lng": -84.00348629999999 },
-    "address": "1250 Scenic Hwy S, Lawrenceville, GA 30045, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9597787, "lng": -84.2468394 },
-    "address": "3670 Holcomb Bridge Rd, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0682574, "lng": -84.27943730000001 },
-    "address": "2755 Old Milton Pkwy, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9581923, "lng": -84.1347692 },
-    "address": "2161 Pleasant Hill Rd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9604458, "lng": -84.301047 },
-    "address": "2090 Dunwoody Club Dr, Atlanta, GA 30350, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0682939, "lng": -84.27944090000001 },
-    "address": "2755 Old Milton Pkwy, Alpharetta, GA 30009, United States"
-  },
-  {
-    "name": "Fifth & Mae Aveda Salon (Buford)",
-    "discount": "stylist Shanell Anderson- various discounts ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9023861, "lng": -84.0055706 },
-    "address": "1215 Scenic Hwy N # 124, Lawrenceville, GA 30045, United States"
+    "location": { "lat": 34.048003998607, "lng": -83.992040019479 },
+    "address": "2815 Buford Dr #106, Buford, GA 30519"
   },
   {
     "name": "Georgia Fitness",
@@ -782,48 +390,6 @@
     "category": "Spa/Salon/Health",
     "location": { "lat": 34.0383104, "lng": -84.0989108 },
     "address": "1500 Peachtree Industrial Blvd #165, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0704474, "lng": -84.17030790000001 },
-    "address": "3630 Peachtree Pkwy Suite 102, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9709383, "lng": -84.21913010000002 },
-    "address": "5450 Peachtree Pkwy Suite 2E, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0892631, "lng": -84.26441059999999 },
-    "address": "5530 Windward Pkwy #400e, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0642661, "lng": -83.9944889 },
-    "address": "1600 Mall of Georgia Blvd STE 1030, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1530459, "lng": -84.17699379999999 },
-    "address": "410 Peachtree Pkwy suite 232, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Harmony Hair Studio at Phenix Salon Suites",
-    "discount": "20% off first visit, 10% off after that- contact Amy Reagin",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.8840616, "lng": -84.0084519 },
-    "address": "1630 Scenic Hwy N Suite 13, Snellville, GA 30078, United States"
   },
   {
     "name": "Haute Air (Buford)",
@@ -868,123 +434,11 @@
     "address": "1500 Peachtree Industrial Blvd # 135, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Majestic Nail Salon",
-    "discount": "10% off all services",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0936771, "lng": -84.2374251 },
-    "address": "6195 Windward Pkwy, Alpharetta, GA 30005, United States"
-  },
-  {
     "name": "Mane Tease Studio by Christie Barnett ",
     "discount": "10% off first visit ",
     "category": "Spa/Salon/Health",
     "location": { "lat": 34.049401, "lng": -84.0589877 },
     "address": "3725 Lawrenceville-Suwanee Rd Suite B5, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9192161, "lng": -84.0000381 },
-    "address": "845 Scenic Hwy S #300, Lawrenceville, GA 30045, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9189472, "lng": -83.9988948 },
-    "address": "780 Scenic Hwy N, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9598208, "lng": -84.0170794 },
-    "address": "751 Old Norcross Rd, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9264264, "lng": -84.06158529999999 },
-    "address": "2401 Lawrenceville Hwy Suite A, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.95529, "lng": -84.05195599999999 },
-    "address": "4825 Sugarloaf Pkwy A, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.94309190000001, "lng": -84.0111251 },
-    "address": "916 Lawrenceville Hwy Suite 201, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9223693, "lng": -84.018514 },
-    "address": "3370 Sugarloaf Pkwy Ste G8, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9190043, "lng": -83.99899649999999 },
-    "address": "780 Scenic Hwy N, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9240376, "lng": -83.9984119 },
-    "address": "685 Scenic Hwy S, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9240324, "lng": -83.9984138 },
-    "address": "685 Scenic Hwy N, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9430261, "lng": -84.01115229999999 },
-    "address": "916 Lawrenceville Hwy #201, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9264207, "lng": -84.06159869999999 },
-    "address": "2401 Lawrenceville Hwy Suite A, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9211305, "lng": -84.01814689999999 },
-    "address": "3370 Sugarloaf Pkwy Ste G8, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9491526, "lng": -84.06442070000001 },
-    "address": "2087 Cruse Rd NW Suite A, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "Moonwhite Smiles (Lawrenceville)",
-    "discount": "$10 off - text Sindy Portillo 678 577 0985 or message on IG @moonwhitesmiles",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.955142, "lng": -84.05187629999999 },
-    "address": "4825 Sugarloaf Pkwy Ste A, Lawrenceville, GA 30044, United States"
   },
   {
     "name": "Muze Salon Suites (Sugar Hill)",
@@ -994,249 +448,11 @@
     "address": "4749 Nelson Brogdon Blvd building 100, Sugar Hill, GA 30518, United States"
   },
   {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0875629, "lng": -84.1644725 },
-    "address": "3105 Peachtree Pkwy STE 103, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0452538, "lng": -84.05455479999999 },
-    "address": "3465 Lawrenceville-Suwanee Rd c, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9666518, "lng": -84.2602806 },
-    "address": "6470 Spalding Dr, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1424828, "lng": -83.9507388 },
-    "address": "4850 Golden Pkwy ste a, Buford, GA 30518, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9695708, "lng": -84.0344293 },
-    "address": "2000 Riverside Pkwy Suite 105, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0997515, "lng": -84.0109449 },
-    "address": "Buford, GA 30518, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0886787, "lng": -84.2670717 },
-    "address": "5530 Windward Pkwy Bldg G, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0322259, "lng": -84.18513469999999 },
-    "address": "10305 Medlock Bridge Rd #B2, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0005073, "lng": -84.1693344 },
-    "address": "3585 Peachtree Industrial Blvd #112, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0995919, "lng": -84.0107036 },
-    "address": "1630 Buford Hwy NE, Buford, GA 30518, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.8928442, "lng": -83.95201109999999 },
-    "address": "2192 Loganville Hwy Suite C, Grayson, GA 30017, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.984815, "lng": -84.2143072 },
-    "address": "5075 Peachtree Pkwy #102, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0640176, "lng": -83.9948441 },
-    "address": "1600 Mall of Georgia Blvd Suite #858, Buford, GA 30519, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.8598828, "lng": -83.9528351 },
-    "address": "886 Atlanta Hwy, Loganville, GA 30052, United States"
-  },
-  {
-    "name": "My Pro Massage",
-    "discount": "20% off in-home massage therapy sessions/call or text Shane 678-215-3830",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.07052960000001, "lng": -83.9852973 },
-    "address": "We have no other stores. Please visit us at this location only, 3320 Buford Dr Suite 90, Buford, GA 30519, United States"
-  },
-  {
     "name": "Nails & More Salon (Lawrenceville)",
     "discount": "15% off ",
     "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0201575, "lng": -84.1206479 },
-    "address": "2220 Peachtree Industrial Blvd #B120, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0412897, "lng": -84.09580439999999 },
-    "address": "1300 Peachtree Industrial Blvd Suite 3105, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.038213, "lng": -84.0989524 },
-    "address": "1500 Peachtree Industrial Blvd # 135, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0471731, "lng": -84.0919619 },
-    "address": "1120 Peachtree Industrial Blvd Suite 111, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0073011, "lng": -84.1297037 },
-    "address": "2750 Buford Hwy #2d, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0456314, "lng": -84.0833387 },
-    "address": "960 Scales Rd Suite 170, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0533285, "lng": -84.1236899 },
-    "address": "8010 McGinnis Ferry Rd Suite E, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0012704, "lng": -84.08238829999999 },
-    "address": "1611 Satellite Blvd #12, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0551729, "lng": -84.12807769999999 },
-    "address": "7810 McGinnis Ferry Rd Suite 107, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0224538, "lng": -84.14685949999999 },
-    "address": "2820 Peachtree Industrial Blvd suite N, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0523917, "lng": -84.0913207 },
-    "address": "4140 Moore Rd suite b-106, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0500322, "lng": -84.0901057 },
-    "address": "1052 Peachtree Industrial Blvd #1, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0015619, "lng": -84.0800444 },
-    "address": "1160 Old Peachtree Rd NW #H, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0534366, "lng": -84.088445 },
-    "address": "991 Peachtree Industrial Blvd #112, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9995382, "lng": -84.0932706 },
-    "address": "4354, 6603 Sugarloaf Pkwy # 105, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9969674, "lng": -84.0939441 },
-    "address": "6590 Sugarloaf Pkwy, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0202453, "lng": -84.15831299999999 },
-    "address": "3170 Peachtree Industrial Blvd #135, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0589565, "lng": -84.0784539 },
-    "address": "686 Peachtree Industrial Blvd STE 230, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9982569, "lng": -84.0903943 },
-    "address": "6555 Sugarloaf Pkwy #104, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Nails & More Salon (Lawrenceville)",
-    "discount": "15% off ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0001891, "lng": -84.0714448 },
-    "address": "1064 Old Peachtree Rd NW UNIT 107, Lawrenceville, GA 30043, United States"
+    "location": { "lat": 33.922754979656, "lng": -84.016478966929 },
+    "address": "3375 Sugarloaf Pkwy #107, Lawrenceville, GA 30044"
   },
   {
     "name": "Oak + Elm Salon",
@@ -1267,34 +483,6 @@
     "address": "3590 Old Atlanta Rd # 203, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Queen Nails",
-    "discount": "20% off $20+ M/T/W, 10% off $20+ Th/F/S/S",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0051042, "lng": -84.29533359999999 },
-    "address": "2300 Holcomb Bridge Rd #104, Roswell, GA 30076, United States"
-  },
-  {
-    "name": "Queen Nails",
-    "discount": "20% off $20+ M/T/W, 10% off $20+ Th/F/S/S",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.837619, "lng": -84.0719249 },
-    "address": "4051 Stone Mountain Hwy, Lilburn, GA 30047, United States"
-  },
-  {
-    "name": "Queen Nails",
-    "discount": "20% off $20+ M/T/W, 10% off $20+ Th/F/S/S",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0441697, "lng": -84.2243182 },
-    "address": "10875 Jones Bridge Rd # 2, Alpharetta, GA 30022, United States"
-  },
-  {
-    "name": "Queen Nails",
-    "discount": "20% off $20+ M/T/W, 10% off $20+ Th/F/S/S",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0734496, "lng": -83.91536540000001 },
-    "address": "2463 Hamilton Mill Pkwy Suite 260-270, Dacula, GA 30019, United States"
-  },
-  {
     "name": "Red Rose Tattooing Co. (Hoschton)",
     "discount": "10% off a tattoo of $75 or more",
     "category": "Spa/Salon/Health",
@@ -1307,27 +495,6 @@
     "category": "Spa/Salon/Health",
     "location": { "lat": 33.9594072, "lng": -84.0171141 },
     "address": "753 Old Norcross Rd ste a, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Revive Medical Spa",
-    "discount": "20% off medical weight loss/$100 PRP/free chiro exam/x-ray",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.9473584, "lng": -84.2266819 },
-    "address": "3040 Holcomb Bridge Rd suite h-2, Norcross, GA 30071, United States"
-  },
-  {
-    "name": "Revive Medical Spa",
-    "discount": "20% off medical weight loss/$100 PRP/free chiro exam/x-ray",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 33.975111, "lng": -84.0773342 },
-    "address": "1860 Duluth Hwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Revive Medical Spa",
-    "discount": "20% off medical weight loss/$100 PRP/free chiro exam/x-ray",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0656757, "lng": -83.97406099999999 },
-    "address": "2725 Mall of Georgia Blvd floor 2, Buford, GA 30519, United States"
   },
   {
     "name": "Spa Artistic",
@@ -1351,74 +518,16 @@
     "address": "525 Peachtree Industrial Blvd Ste E, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0589565, "lng": -84.0784539 },
-    "address": "686 Peachtree Industrial Blvd STE 230, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.055024, "lng": -84.067647 },
-    "address": "425 Buford Hwy NE #105, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0554811, "lng": -84.06549489999999 },
-    "address": "340 Town Center Ave, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0500322, "lng": -84.0901057 },
-    "address": "1052 Peachtree Industrial Blvd #1, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0455516, "lng": -84.0589018 },
-    "address": "3550 Lawrenceville-Suwanee Rd Suite 106, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0180282, "lng": -84.19318310000001 },
-    "address": "9700 Medlock Bridge Rd #176, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0573098, "lng": -84.12943159999999 },
-    "address": "7776 McGinnis Ferry Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.1109984, "lng": -84.15455899999999 },
-    "address": "3120 Mathis Airport Pkwy Ste 200, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Suwanee Nails (Tiffany Nguyen)",
-    "discount": "10% off all services ",
-    "category": "Spa/Salon/Health",
-    "location": { "lat": 34.0688309, "lng": -84.1662243 },
-    "address": "3651 Peachtree Pkwy H, Suwanee, GA 30024, United States"
-  },
-  {
     "name": "True Source Chiropractic (Buford)",
-    "discount": "50% off new patient services- contact Madison Smith. ",
+    "discount": "50% off new patient services- contact Madison Smith.",
     "category": "Spa/Salon/Health",
     "location": { "lat": 34.11300910000001, "lng": -83.9946696 },
     "address": "11 Buford Village Way #127, Buford, GA 30518, United States"
+  },
+  {
+    "name": "TwistedTreeCo.com",
+    "discount": "use code SUWANEEMOM for 20% off + free shipping for orders over $25",
+    "category": "Spa/Salon/Health"
   },
   {
     "name": "Vitality Med Spa",
@@ -1444,9 +553,7 @@
   {
     "name": "101 Bagel Cafe (all five locations)",
     "discount": "15% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0013787, "lng": -84.1438519 },
-    "address": "3126 US-23, Duluth, GA 30096, United States"
+    "category": "Restaurants (all discounts do not include alcohol)"
   },
   {
     "name": "Bellagios (Lawrenceville)",
@@ -1454,104 +561,6 @@
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 33.9668133, "lng": -84.02235999999999 },
     "address": "860 Duluth Hwy Ste 270, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0932376, "lng": -83.93807319999999 },
-    "address": "3300 Hamilton Mill Rd #101, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1429586, "lng": -83.9532993 },
-    "address": "4803 Golden Pkwy, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1081554, "lng": -84.0001932 },
-    "address": "2033 Buford Hwy Suite 102, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0736087, "lng": -83.9834226 },
-    "address": "3387 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0501556, "lng": -83.92961319999999 },
-    "address": "1955 Gravel Springs Rd, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.08059739999999, "lng": -83.985715 },
-    "address": "3687 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1242842, "lng": -83.9846878 },
-    "address": "2685 Buford Hwy NE #800, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.19511050000001, "lng": -83.8577202 },
-    "address": "4037 Winder Hwy, Flowery Branch, GA 30542, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1448861, "lng": -83.9659016 },
-    "address": "922 Gainesville Hwy #104, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0802905, "lng": -83.9218246 },
-    "address": "2710 Hamilton Mill Rd, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9849813, "lng": -83.98513899999999 },
-    "address": "854 Buford Dr # D, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0390636, "lng": -84.0547526 },
-    "address": "45 Satellite Blvd #4, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0648971, "lng": -83.9846228 },
-    "address": "3333 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Best Donuts (Buford)",
-    "discount": "10% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9876551, "lng": -83.9848889 },
-    "address": "938 Buford Dr, Lawrenceville, GA 30043, United States"
   },
   {
     "name": "Beto’s Tacos",
@@ -1708,20 +717,6 @@
     "address": "911 Duluth Hwy 120 Suite E3, Lawrenceville, GA 30043, United States"
   },
   {
-    "name": "Grandma’s Pizza & Pasta",
-    "discount": "20% off dine in or take out. Kids meal 50% off with any two adult entrees.",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0922851, "lng": -84.169754 },
-    "address": "2780 W Village Dr Suite A, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Grandma’s Pizza & Pasta",
-    "discount": "20% off dine in or take out. Kids meal 50% off with any two adult entrees.",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1372548, "lng": -84.1026819 },
-    "address": "2950 Buford Hwy #160, Cumming, GA 30041, United States"
-  },
-  {
     "name": "Huskers Cafe",
     "discount": "10% off total check",
     "category": "Restaurants (all discounts do not include alcohol)",
@@ -1729,39 +724,11 @@
     "address": "165 Satellite Blvd Suite I, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Iron Guys Korean BBQ",
-    "discount": "20% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9541717, "lng": -84.1339697 },
-    "address": "2131 Pleasant Hill Rd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Iron Guys Korean BBQ",
-    "discount": "20% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0743413, "lng": -83.98665 },
-    "address": "3480 Financial Center Way Ste M1030, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Iron Guys Korean BBQ",
-    "discount": "20% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1105879, "lng": -84.2224061 },
-    "address": "6710 Town Square #110, Alpharetta, GA 30005, United States"
-  },
-  {
     "name": "Jeremiah’s Italian Ice",
     "discount": "10% off ",
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0533902, "lng": -84.08839859999999 },
     "address": "991 Peachtree Industrial Blvd Ste 122, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Jeremiah’s Italian Ice",
-    "discount": "10% off ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1224557, "lng": -84.1703388 },
-    "address": "1595 Peachtree Pkwy Suite 200, Cumming, GA 30041, United States"
   },
   {
     "name": "Johnny's Pizza (Buford)",
@@ -1778,11 +745,18 @@
     "address": "3125 Woodward Crossing Blvd Suite 2000, Buford, GA 30519, United States"
   },
   {
-    "name": "Kani House (Buford & Johns Creek)",
+    "name": "Kani House (Buford)",
     "discount": "10% off total check",
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0634631, "lng": -83.9914307 },
     "address": "3208 Buford Dr, Buford, GA 30519, United States"
+  },
+  {
+    "name": "Kani House (Johns Creek)",
+    "discount": "10% off total check",
+    "category": "Restaurants (all discounts do not include alcohol)",
+    "location": { "lat": 34.046155788957, "lng": -84.177099449643 },
+    "address": "10820 Abbotts Bridge Rd #4000, Duluth, GA 30097"
   },
   {
     "name": "La Hacienda Bar & Grill (Suwanee)",
@@ -1792,46 +766,9 @@
     "address": "1500 Peachtree Industrial Blvd, Suwanee, GA 30024, United States"
   },
   {
-    "name": "La Hacienda Bar & Grill (Suwanee)",
-    "discount": "20% off ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1857381, "lng": -84.14441889999999 },
-    "address": "549 Lakeland Plaza, Cumming, GA 30040, United States"
-  },
-  {
-    "name": "La Hacienda Bar & Grill (Suwanee)",
-    "discount": "20% off ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9567973, "lng": -83.9922203 },
-    "address": "252 W Pike St, Lawrenceville, GA 30046, United States"
-  },
-  {
     "name": "Luna Eats",
     "discount": "10% off first order, free delivery in Suwanee on any order over $80",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0022392, "lng": -84.17017919999999 },
-    "address": "3543 Peachtree Industrial Blvd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Luna Eats",
-    "discount": "10% off first order, free delivery in Suwanee on any order over $80",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9865041, "lng": -84.2125758 },
-    "address": "5005 Peachtree Pkwy Suite 820, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Luna Eats",
-    "discount": "10% off first order, free delivery in Suwanee on any order over $80",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1833989, "lng": -84.2185892 },
-    "address": "5772 N Vickery St, Cumming, GA 30040, United States"
-  },
-  {
-    "name": "Luna Eats",
-    "discount": "10% off first order, free delivery in Suwanee on any order over $80",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1105185, "lng": -84.2189046 },
-    "address": "1545 McFarland Pkwy, Alpharetta, GA 30005, United States"
+    "category": "Restaurants (all discounts do not include alcohol)"
   },
   {
     "name": "Marco’s Pizza (Old P’tree Rd location)",
@@ -1839,76 +776,6 @@
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0351927, "lng": -84.02389199999999 },
     "address": "291 Old Peachtree Rd NE, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9975892, "lng": -84.091517 },
-    "address": "6575 Sugarloaf Pkwy, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.97673380000001, "lng": -84.2163753 },
-    "address": "5270 Peachtree Pkwy, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.06368, "lng": -84.2114716 },
-    "address": "5075 Abbotts Bridge Rd, Alpharetta, GA 30005, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9697047, "lng": -84.14702989999999 },
-    "address": "2605 Pleasant Hill Rd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0551596, "lng": -84.06747539999999 },
-    "address": "425 Buford Hwy, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1117742, "lng": -84.15424569999999 },
-    "address": "3130 Mathis Airport Pkwy, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.931968, "lng": -84.26477 },
-    "address": "7131 Peachtree Industrial Blvd, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1202157, "lng": -84.077561 },
-    "address": "5965 Cumming Hwy NE, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.03564, "lng": -83.95730999999999 },
-    "address": "1880 Braselton Hwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Marco’s Pizza (Old P’tree Rd location)",
-    "discount": "15% off total order with code HD1606",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.10697, "lng": -83.87514999999999 },
-    "address": "7380 Spout Springs Rd, Flowery Branch, GA 30542, United States"
   },
   {
     "name": "Mo’s Gyro & Kabob (Sugar Hill)",
@@ -1923,34 +790,6 @@
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0560302, "lng": -84.06282519999999 },
     "address": "320 Town Center Ave Ste C1, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Mellow Mushroom",
-    "discount": "10% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0304019, "lng": -84.1880693 },
-    "address": "6000 Medlock Bridge Pkwy, Johns Creek, GA 30022, United States"
-  },
-  {
-    "name": "Mellow Mushroom",
-    "discount": "10% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1525907, "lng": -84.1762145 },
-    "address": "410 Peachtree Pkwy Suite 200, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Mellow Mushroom",
-    "discount": "10% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.093619, "lng": -84.2404207 },
-    "address": "3070 Windward Plaza Ste A, Alpharetta, GA 30005, United States"
-  },
-  {
-    "name": "Mellow Mushroom",
-    "discount": "10% off total check",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.8560854, "lng": -83.9972882 },
-    "address": "2000 Main St E, Snellville, GA 30078, United States"
   },
   {
     "name": "Mochinut (Duluth)",
@@ -2065,6 +904,13 @@
     "address": "340 Town Center Ave Unit A-4, Suwanee, GA 30024, United States"
   },
   {
+    "name": "Rodeo Mexican Restaurant & Grill",
+    "discount": "10% off",
+    "category": "Restaurants (all discounts do not include alcohol)",
+    "location": { "lat": 34.0176019976, "lng": -84.528370008119 },
+    "address": "2719 Canton Rd, Marietta, GA 30066"
+  },
+  {
     "name": "Rosati’s Pizza Sports Pub (Cumming)",
     "discount": "20% off",
     "category": "Restaurants (all discounts do not include alcohol)",
@@ -2135,14 +981,14 @@
     "address": "179 E Moreno St Suite C, Buford, GA 30518, United States"
   },
   {
-    "name": "Tequila Mama (Buford and Suwanee locations)",
+    "name": "Tequila Mama (Suwanee)",
     "discount": "15% off total check",
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0554475, "lng": -84.06471 },
     "address": "340 Town Center Ave, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Tequila Mama (Buford and Suwanee locations)",
+    "name": "Tequila Mama (Buford)",
     "discount": "15% off total check",
     "category": "Restaurants (all discounts do not include alcohol)",
     "location": { "lat": 34.0658067, "lng": -83.97534999999999 },
@@ -2163,27 +1009,6 @@
     "address": "10900 Medlock Bridge Rd STE 104, Johns Creek, GA 30097, United States"
   },
   {
-    "name": "Terrazas Bar & Grill (Johns Creek)",
-    "discount": "20% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9740818, "lng": -83.99575999999999 },
-    "address": "722 Collins Hill Rd Suite N, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Terrazas Bar & Grill (Johns Creek)",
-    "discount": "20% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9477876, "lng": -84.1282037 },
-    "address": "1775 Pleasant Hill Rd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Terrazas Bar & Grill (Johns Creek)",
-    "discount": "20% off total check ",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9422545, "lng": -84.1261316 },
-    "address": "3695 Club Dr Suite-B, Duluth, GA 30096, United States"
-  },
-  {
     "name": "Texas Roadhouse (Buford)",
     "discount": "10% off total check (excluding alcohol) ",
     "category": "Restaurants (all discounts do not include alcohol)",
@@ -2193,51 +1018,7 @@
   {
     "name": "Tropical Smoothie Cafe",
     "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.039092, "lng": -84.05435399999999 },
-    "address": "3320 Lawrenceville-Suwanee Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.053523, "lng": -84.175342 },
-    "address": "11160 Medlock Bridge Rd #100, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.9671317, "lng": -84.0224842 },
-    "address": "860 Duluth Hwy Building 300 Suite 310, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.080584, "lng": -83.985727 },
-    "address": "3687 Buford Dr Suite 200, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.0928783, "lng": -84.2801044 },
-    "address": "869 N Main St Unit 204, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.88453, "lng": -84.009574 },
-    "address": "1630 Scenic Hwy N Suite 6, Snellville, GA 30078, United States"
-  },
-  {
-    "name": "Tropical Smoothie Cafe",
-    "discount": "10% off total purchase (excludes $3.50 happy hour)",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.170284, "lng": -84.18339 },
-    "address": "5740 Steeplechase Blvd Suite 100, Cumming, GA 30040, United States"
+    "category": "Restaurants (all discounts do not include alcohol)"
   },
   {
     "name": "The Tavern House (Sugar Hill)",
@@ -2282,20 +1063,6 @@
     "address": "360 Peachtree Industrial Blvd #102-103, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Wilkes Meat Market",
-    "discount": "10% off in-store purchase",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 34.1067331, "lng": -83.8716273 },
-    "address": "7433 Spout Springs Rd, Flowery Branch, GA 30542, United States"
-  },
-  {
-    "name": "Wilkes Meat Market",
-    "discount": "10% off in-store purchase",
-    "category": "Restaurants (all discounts do not include alcohol)",
-    "location": { "lat": 33.8558506, "lng": -84.02085559999999 },
-    "address": "2304 Scenic Hwy S Suite F, Snellville, GA 30078, United States"
-  },
-  {
     "name": "Wow Poke & Juice",
     "discount": "10% off total check",
     "category": "Restaurants (all discounts do not include alcohol)",
@@ -2313,141 +1080,8 @@
     "name": "A&R Flooring (Buford Village)",
     "discount": "10% off total purchase, also 18 mos financing",
     "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0158699, "lng": -84.1216982 },
-    "address": "2370 Buford Hwy NE, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0398207, "lng": -84.0799401 },
-    "address": "3700 Burnette Park Dr suite h, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0612654, "lng": -84.0859368 },
-    "address": "807 White Rock Trail, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0520253, "lng": -84.09011459999999 },
-    "address": "1035 Peachtree Industrial Blvd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0690145, "lng": -84.16611809999999 },
-    "address": "3651 Peachtree Pkwy Ste. C, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.076835, "lng": -84.1625352 },
-    "address": "3495 Peachtree Pkwy Suite 115, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0487274, "lng": -84.0949284 },
-    "address": "1145 Peachtree Industrial Blvd Ste B3, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9001875, "lng": -84.03470949999999 },
-    "address": "865 Rose Crest Dr, Lawrenceville, GA 30044, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1058422, "lng": -84.1758137 },
-    "address": "2255 Peachtree Pkwy, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0588036, "lng": -84.1712917 },
-    "address": "11340 Lakefield Dr #200, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0707055, "lng": -84.16637109999999 },
-    "address": "3643 Peachtree Pkwy, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0660216, "lng": -84.14508529999999 },
-    "address": "7690 St Marlo Country Club Pkwy, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.015283, "lng": -84.1850328 },
-    "address": "5805 State Bridge Rd V, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0675618, "lng": -84.16123859999999 },
-    "address": "3875 Johns Creek Pkwy Suite C, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0708228, "lng": -84.1651163 },
-    "address": "4090 Johns Creek Pkwy Ste D, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0450164, "lng": -84.17558179999999 },
-    "address": "6290 Abbotts Bridge Rd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0213526, "lng": -84.1502763 },
-    "address": "4120 Chattahoochee Trace, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0552404, "lng": -84.1282001 },
-    "address": "7810 McGinnis Ferry Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0678673, "lng": -84.17467119999999 },
-    "address": "6300 Hospital Pkwy Suite 125, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "A&R Flooring (Buford Village)",
-    "discount": "10% off total purchase, also 18 mos financing",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.073719, "lng": -84.17097919999999 },
-    "address": "4275 Johns Creek Pkwy A, Suwanee, GA 30024, United States"
+    "location": { "lat": 34.112963999674, "lng": -83.995671981944 },
+    "address": "22 Buford Village Way #217, Buford, GA 30518"
   },
   {
     "name": "C. C. Liquidations",
@@ -2459,44 +1093,12 @@
   {
     "name": "Case Discount Flooring",
     "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9738482, "lng": -84.1594463 },
-    "address": "2730 N Berkeley Lake Rd NW # 200, Duluth, GA 30096, United States"
+    "category": "Shopping & Home Etc"
   },
   {
-    "name": "Case Discount Flooring",
-    "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9096338, "lng": -84.2208064 },
-    "address": "6468 Dawson Blvd, Norcross, GA 30093, United States"
-  },
-  {
-    "name": "Case Discount Flooring",
-    "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1907478, "lng": -83.91939479999999 },
-    "address": "4764 Atlanta Hwy, Flowery Branch, GA 30542, United States"
-  },
-  {
-    "name": "Case Discount Flooring",
-    "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.09375, "lng": -84.00155629999999 },
-    "address": "4125 Buford Dr, Buford, GA 30518, United States"
-  },
-  {
-    "name": "Case Discount Flooring",
-    "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9094107, "lng": -84.2230873 },
-    "address": "6586 Dawson Blvd A, Norcross, GA 30093, United States"
-  },
-  {
-    "name": "Case Discount Flooring",
-    "discount": "$100 off 500 sq feet or more. Any referrals who purchase flooring- $100 Amazon gift card for SAMC member who provided referral. ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9055025, "lng": -84.2460337 },
-    "address": "4187 Pleasantdale Rd, Doraville, GA 30340, United States"
+    "name": "Clean It Green Professional Carpet Cleaners",
+    "discount": "15% off / call Hal 678-926-8402",
+    "category": "Shopping & Home Etc"
   },
   {
     "name": "Clear Choice Windows (Buford)",
@@ -2511,27 +1113,6 @@
     "category": "Shopping & Home Etc",
     "location": { "lat": 34.055953, "lng": -84.06307 },
     "address": "320 Town Center Ave c4, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "DressUp",
-    "discount": "20% off one purchase",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1539363, "lng": -84.1766131 },
-    "address": "410 Peachtree Pkwy Suite 130, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "DressUp",
-    "discount": "20% off one purchase",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0754112, "lng": -84.2935366 },
-    "address": "205 Market St, Alpharetta, GA 30009, United States"
-  },
-  {
-    "name": "DressUp",
-    "discount": "20% off one purchase",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.8966254, "lng": -84.004083 },
-    "address": "1350 Scenic Hwy S Suite 204, Snellville, GA 30078, United States"
   },
   {
     "name": "Eco Friendly Crafts",
@@ -2555,20 +1136,6 @@
     "address": "340 Town Center Ave a3, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Fabrik",
-    "discount": "20% off total purchase every Tuesday",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9802342, "lng": -84.2178708 },
-    "address": "5161 Peachtree Pkwy #610, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Fabrik",
-    "discount": "20% off total purchase every Tuesday",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0709874, "lng": -84.2758692 },
-    "address": "5150 1st St, Alpharetta, GA 30009, United States"
-  },
-  {
     "name": "Giovanni’s Garage",
     "discount": "10% off mobile auto repair (470) 965-5933",
     "category": "Shopping & Home Etc",
@@ -2590,13 +1157,6 @@
     "address": "2120 Enclave Mill Dr, Dacula, GA 30019, United States"
   },
   {
-    "name": "Interior Space Consultants (Dacula)",
-    "discount": " 20% off standard hourly rate (reduced from $95/hr. to $75/hr.) for commercial or residential projects + free 90 minute consultation (Shaye Bryson) ",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9981234, "lng": -83.9054683 },
-    "address": "470 Dacula Rd #1753, Dacula, GA 30019, United States"
-  },
-  {
     "name": "I’ve Got a Guy Handyman Services ",
     "discount": "10% off all services - 770-758-4798 or https://ivegotaguyllc.com/",
     "category": "Shopping & Home Etc",
@@ -2607,155 +1167,18 @@
     "name": "Mattresses & More",
     "discount": "10% off purchase and half off delivery of mattresses $499+",
     "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0710437, "lng": -84.16780419999999 },
-    "address": "3630 Peachtree Pkwy, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0671868, "lng": -84.1708285 },
-    "address": "11720 Medlock Bridge Rd Suite 510, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0558463, "lng": -84.17486799999999 },
-    "address": "11270 Medlock Bridge Rd, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9810699, "lng": -84.0821618 },
-    "address": "5900 Sugarloaf Pkwy Suite 171, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9804757, "lng": -84.2147464 },
-    "address": "5150 Peachtree Pkwy Suite 200, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9562523, "lng": -84.1320112 },
-    "address": "2070 Pleasant Hill Rd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.96737580000001, "lng": -84.02356970000001 },
-    "address": "900 Duluth Hwy Ste 300, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.06026020000001, "lng": -83.9909883 },
-    "address": "3189 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0743339, "lng": -83.9833049 },
-    "address": "3397 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9516148, "lng": -84.2318612 },
-    "address": "3200 Holcomb Bridge Rd Ste 500, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9098296, "lng": -84.21954480000001 },
-    "address": "6448 Dawson Blvd, Norcross, GA 30093, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0890005, "lng": -84.2743138 },
-    "address": "5325 Windward Pkwy Suite 101, Alpharetta, GA 30004, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0452142, "lng": -84.2888971 },
-    "address": "6270 North Point Pkwy Suite 320, Alpharetta, GA 30022, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1784022, "lng": -84.13103989999999 },
-    "address": "944 Buford Hwy, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0448338, "lng": -84.3024581 },
-    "address": "7131 North Point Pkwy Suite 319, Alpharetta, GA 30022, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.098739, "lng": -84.2708291 },
-    "address": "13045 GA-9 Ste 110, Milton, GA 30004, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1531222, "lng": -84.17316110000002 },
-    "address": "405 Peachtree Pkwy Ste 135, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.06568, "lng": -83.9827059 },
-    "address": "3333 Buford Dr #1048, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.948482, "lng": -84.1412417 },
-    "address": "3950 Venture Dr, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Mattresses & More",
-    "discount": "10% off purchase and half off delivery of mattresses $499+",
-    "category": "Shopping & Home Etc",
     "location": { "lat": 33.9050744, "lng": -84.1220276 },
     "address": "450 Beaver Ruin Rd nw, Lilburn, GA 30047, United States"
   },
   {
-    "name": "Mitigation Company of Atlanta",
-    "discount": "15% off / call Ryan 404-480-4850",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9292771, "lng": -84.2589101 },
-    "address": "7055 Amwiler Industrial Dr NW STE A, Atlanta, GA 30360, United States"
+    "name": "MissionEdit.com",
+    "discount": "15% off total order with code SAMC15",
+    "category": "Shopping & Home Etc"
   },
   {
     "name": "Mitigation Company of Atlanta",
     "discount": "15% off / call Ryan 404-480-4850",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.8944633, "lng": -84.2377147 },
-    "address": "3772 Pleasantdale Rd #185, Atlanta, GA 30340, United States"
+    "category": "Shopping & Home Etc"
   },
   {
     "name": "Parsons",
@@ -2765,123 +1188,16 @@
     "address": "1500 Peachtree Industrial Blvd, Suwanee, GA 30024, United States"
   },
   {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0134531, "lng": -84.0912149 },
-    "address": "1615 Old Peachtree Rd NW, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9621157, "lng": -84.2315756 },
-    "address": "3577 Parkway Ln #100, Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0033708, "lng": -84.1447337 },
-    "address": "3530 W Lawrenceville St, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9575795, "lng": -84.2058753 },
-    "address": "3100 Medlock Bridge Rd Building 300 Suite 335, Norcross, GA 30071, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0418701, "lng": -84.1850891 },
-    "address": "Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0422793, "lng": -84.19391019999999 },
-    "address": "10730 Parsons Rd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9806206, "lng": -84.1005131 },
-    "address": "2282 Meadow Church Rd Ste 100, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.2070257, "lng": -84.13403919999999 },
-    "address": "208 Pirkle Ferry Rd Ste B, Cumming, GA 30040, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0032081, "lng": -84.1477965 },
-    "address": "3611 Ridgeway Rd NW, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0549989, "lng": -84.1997059 },
-    "address": "11255 Parsons Rd # 100, Johns Creek, GA 30097, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1781204, "lng": -84.1401332 },
-    "address": "1400 Northside Forsyth Dr, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.96833, "lng": -84.0322228 },
-    "address": "1030 Duluth Hwy # A, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0686359, "lng": -83.9045651 },
-    "address": "3635 Braselton Hwy # A, Dacula, GA 30019, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.1028724, "lng": -84.0198209 },
-    "address": "1435 Broadmoor Blvd NE, Sugar Hill, GA 30518, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 33.9390784, "lng": -84.2498555 },
-    "address": "Peachtree Corners, GA 30092, United States"
-  },
-  {
-    "name": "Parsons",
-    "discount": "15% off total purchase every Mon & Tue",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.2575663, "lng": -84.07682059999999 },
-    "address": "3225 Keith Bridge Rd, Cumming, GA 30041, United States"
-  },
-  {
     "name": "RoofServ",
     "discount": "contact Katherine Ward (615) 306-7965 - free roof inspections, replacements paid by insurance",
     "category": "Shopping & Home Etc",
     "location": { "lat": 34.0551933, "lng": -84.0613379 },
     "address": "3886 Lawrenceville-Suwanee Rd #100, Suwanee, GA 30024, United States"
+  },
+  {
+    "name": "Sandy’s Designs",
+    "discount": "free estimates / 20% off any project booked before end of 2022 - (678) 409-1805",
+    "category": "Shopping & Home Etc"
   },
   {
     "name": "Sleep Galleria (Johns Creek)",
@@ -2891,6 +1207,13 @@
     "address": "11720 Medlock Bridge Rd Suite 510, Johns Creek, GA 30097, United States"
   },
   {
+    "name": "Showroom Reflections Auto Detailing and Customs",
+    "discount": "15% off Auto Detailing, Pressure Washing (free quotes), Headlight Restoration, and Mobile Tint Services- use code SAMC19 www.SRDetails.com",
+    "category": "Shopping & Home Etc",
+    "location": { "lat": 33.957185993882, "lng": -84.206945981927 },
+    "address": "3100 Medlock Bridge Rd Ste 320B, Norcross, GA 30071"
+  },
+  {
     "name": "Thalia’s Gowns (Sugarloaf Mall)",
     "discount": "15% off regular priced gowns ",
     "category": "Shopping & Home Etc",
@@ -2898,18 +1221,16 @@
     "address": "Next To Dave Busters, 5900 Sugarloaf Pkwy STE 443, Lawrenceville, GA 30043, United States"
   },
   {
-    "name": "Unleashed Creations",
-    "discount": "20% off first visit, 15% off second visit, 10% after that",
-    "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0286441, "lng": -84.0943223 },
-    "address": "1495 US-23 Suite 160, Suwanee, GA 30024, United States"
+    "name": "Suwanee Yard Cards",
+    "discount": "contact Melissa Bowman or T’naiha Eaker www.SuwaneeYardCards.com",
+    "category": "Shopping & Home Etc"
   },
   {
     "name": "Unleashed Creations",
     "discount": "20% off first visit, 15% off second visit, 10% after that",
     "category": "Shopping & Home Etc",
-    "location": { "lat": 34.0467598, "lng": -84.2242302 },
-    "address": "10950 State Bridge Rd, Johns Creek, GA 30022, United States"
+    "location": { "lat": 34.0286441, "lng": -84.0943223 },
+    "address": "1495 US-23 Suite 160, Suwanee, GA 30024, United States"
   },
   {
     "name": "B&E Georgia Flooring",
@@ -3388,7 +1709,7 @@
     "address": "1090 Duluth Hwy # 100A, Lawrenceville, GA 30043, United States"
   },
   {
-    "name": "The Rhoads Group Insurance Agents (Ansley Owens or Paula Brightwell)",
+    "name": "The Rhoads Group Insurance Agents (Ansley Owens)",
     "discount": "$25 Amazon gift card for the opportunity to quote/shop your auto/home/life insurance. https://insuranceform.app/l/samc/Li_dNznFmch3Sk",
     "category": "SAMC Family Businesses",
     "location": { "lat": 34.1833343, "lng": -84.22002669999999 },
