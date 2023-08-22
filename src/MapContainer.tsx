@@ -47,13 +47,15 @@ const Map = (loc?: Location) => {
           {list.map((item: Item, idx: number) => {
             const cat = item.category;
             const color: string = markerColor[cat];
-            return (
-              <Marker
-                position={item.location}
-                key={`pos ${item.name}${idx}`}
-                icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
-              />
-            );
+            if (item.location) {
+              return (
+                <Marker
+                  position={item.location}
+                  key={`pos ${item.name}${idx}`}
+                  icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
+                />
+              );
+            }
           })}
         </GoogleMap>
       </LoadScript>
