@@ -1397,144 +1397,66 @@
     "address": "5610 Bethelview Rd Suite 900, Cumming, GA 30040, United States"
   },
   {
+    "name": "Luv and Hugs (Kelly Downie)",
+    "discount": "10% off with code SAMCDISC (https://www.amazon.com/luvandhugs)",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Reyes Creative Works (Stephanie Reyes-Rodriguez)",
+    "discount": "15% off",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Pampered Chef (Laura Taylor)",
+    "discount": "free shipping on all orders",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Shepherd Vacation Specialists (Meghan Shepherd)",
+    "discount": "$50 credits on cruises, vacation packages /www.shepherdvacationspecialists.com or contact Meghan ",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Le-Vel Thrive",
+    "discount": "contact Kelli Morris for 15% off 1st order. Feelyourvitamin.thrive123.com",
+    "category": "SAMC Family Businesses"
+  },
+  {
     "name": "Aura Photography",
     "discount": "contact Kelli Morris for $10 off",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Norwex",
+    "discount": "10% off your order- contact Marcia Dial 770-695-2660 / http://www.marciadial.norwex.biz",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "JuicePlus (Kate Pinyan)",
+    "discount": "$25 gift card with your first purchase. https://kpinyan.juiceplus.com/us/en",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Forlaw Realty Group",
+    "discount": "Pre-listing or New Home Inspection Rebate at Closing (Up to $500) - Danielle Forlaw, Realtor 678-764-4903",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Forlaw Realty Group",
+    "discount": "Pre-listing or New Home Inspection Rebate at Closing (Up to $500) - Danielle Forlaw, Realtor 678-764-4903",
+    "category": "SAMC Family Businesses"
+  },
+  {
+    "name": "Jo Davis Homes",
+    "discount": "1% discount (up to $5k) on all listings, contact realtor Josephine Davis 404-667-9945",
     "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0620676, "lng": -84.17063879999999 },
-    "address": "11555 Medlock Bridge Rd Suite 100, Duluth, GA 30097, United States"
+    "location": { "lat": 33.871227984257, "lng": -84.337132025667 },
+    "address": "804 Town Blvd a2040, Atlanta, GA 30319"
   },
   {
     "name": "Dress & Bow Fine Art Photography",
     "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.055953, "lng": -84.06307 },
-    "address": "320 Town Center Ave c4, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9810521, "lng": -84.08037 },
-    "address": "Next To Dave Busters, 5900 Sugarloaf Pkwy STE 443, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.98084900000001, "lng": -84.07955900000002 },
-    "address": "5900 Sugarloaf Pkwy #514, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9803479, "lng": -84.08176859999999 },
-    "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.049758, "lng": -84.08890919999999 },
-    "address": "1000 Peachtree Industrial Blvd Suite 6-326, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9809839, "lng": -84.08274650000001 },
-    "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9803807, "lng": -84.0830086 },
-    "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0554027, "lng": -84.0647668 },
-    "address": "340 Town Center Ave a3, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.98115300000001, "lng": -84.0814761 },
-    "address": "5900 Sugarloaf Pkwy, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.985625, "lng": -84.1704154 },
-    "address": "3940 Peachtree Industrial Blvd Suite C, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0669229, "lng": -84.17080759999999 },
-    "address": "John's Creek, 11720 Medlock Bridge Rd, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9609787, "lng": -84.1321416 },
-    "address": "3502 Satellite Blvd, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9816028, "lng": -84.0797558 },
-    "address": "5900 Sugarloaf Pkwy #275, Lawrenceville, GA 30043, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.94226870000001, "lng": -84.121275 },
-    "address": "1500 Pleasant Hill Rd Ste 115, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.981744, "lng": -84.2172539 },
-    "address": "5145 Peachtree Pkwy, Norcross, GA 30092, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.06597, "lng": -83.98382 },
-    "address": "3333 Buford Dr Space #1031, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.064345, "lng": -83.983959 },
-    "address": "3333 Buford Dr, Buford, GA 30519, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9672242, "lng": -84.14265379999999 },
-    "address": "2476 Pleasant Hill Rd Suite 203, Duluth, GA 30096, United States"
-  },
-  {
-    "name": "Dress & Bow Fine Art Photography",
-    "discount": "www.DressAndBow.com (Melanie Conner) $10 off all photography sessions. ",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9104644, "lng": -84.128911 },
-    "address": "Northwest, 700 Beaver Ruin Rd STE C, Lilburn, GA 30047, United States"
+    "category": "SAMC Family Businesses"
   },
   {
     "name": "Graze and Vines Charcuterie (Kristi Heyer)",
@@ -1558,11 +1480,21 @@
     "address": "1090 Duluth Hwy # 100A, Lawrenceville, GA 30043, United States"
   },
   {
+    "name": "Elite Healing Waves (Sal Patel) Pulsed Electro Magnetic Frequency Therapy",
+    "discount": "extra ten minutes / $20 value.",
+    "category": "SAMC Family Businesses"
+  },
+  {
     "name": "The Rhoads Group Insurance Agents (Ansley Owens)",
     "discount": "$25 Amazon gift card for the opportunity to quote/shop your auto/home/life insurance. https://insuranceform.app/l/samc/Li_dNznFmch3Sk",
     "category": "SAMC Family Businesses",
     "location": { "lat": 34.1833343, "lng": -84.22002669999999 },
     "address": "5930 Odell St STE 200, Cumming, GA 30040, United States"
+  },
+  {
+    "name": "Southern Coast Goldendoodles",
+    "discount": "Goldendoodles ($200 off)  & Bernedoodles ($300 off) - www.southerncoastgoldendoodles.com - Kim Smith 678-428-0177 ",
+    "category": "SAMC Family Businesses"
   },
   {
     "name": "Atlanta Pro Stump Grinding",
@@ -1572,115 +1504,28 @@
     "address": "2300 Global Forum Blvd #621, Atlanta, GA 30340, United States"
   },
   {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0023352, "lng": -84.14522439999999 },
-    "address": "3140 Main St, Duluth, GA 30096, United States"
+    "name": "TilmaCare Telehealth",
+    "discount": "10-15% off medical weight loss and hormone replacement therapy services- contact Halima Diallo",
+    "category": "SAMC Family Businesses"
   },
   {
     "name": "Georgia Lane Realty",
     "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0434701, "lng": -84.0534192 },
-    "address": "3445 Lawrenceville-Suwanee Rd Suite D, Suwanee, GA 30024, United States"
+    "category": "SAMC Family Businesses"
   },
   {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0318351, "lng": -84.0972938 },
-    "address": "3863 Baxley Pine Trail, Suwanee, GA 30024, United States"
+    "name": "Bernbach Travel",
+    "discount": "no fees, gift card offered on your first booking based on package price- contact Sara@Bernbachtravel.com",
+    "category": "SAMC Family Businesses"
   },
   {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0001741, "lng": -84.0909465 },
-    "address": "2750 Premiere Pkwy #200, Duluth, GA 30097, United States"
+    "name": "Queen of the Quail (Katelyn Peck)",
+    "discount": "5% off meat and eggs, organic dog and cat treats. 404-939-1363",
+    "category": "SAMC Family Businesses"
   },
   {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0810446, "lng": -84.1628684 },
-    "address": "3325 Paddocks Pkwy #190, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.081032, "lng": -84.162883 },
-    "address": "3325 Paddocks Pkwy #190, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0304975, "lng": -84.0508803 },
-    "address": "3011 Sutton Gate Dr Suite 150, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0912254, "lng": -84.1984165 },
-    "address": "5470 McGinnis Village Pl #102, Alpharetta, GA 30005, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9848913, "lng": -84.1873296 },
-    "address": "12 Lakeshore Dr NW, Berkeley Lake, GA 30096, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9576208, "lng": -83.9875412 },
-    "address": "135 E Pike St, Lawrenceville, GA 30046, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 33.9353268, "lng": -84.1401947 },
-    "address": "Jules Law Group, Bldg \"D, 3985 Steve Reynolds Blvd BLDG D, Norcross, GA 30093, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.1524417, "lng": -84.17018949999999 },
-    "address": "2920 Ronald Reagan Blvd Suite #113, Cumming, GA 30041, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0001641, "lng": -84.0911372 },
-    "address": "2750 Premiere Pkwy #200, Duluth, GA 30097, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.0775807, "lng": -84.05458899999999 },
-    "address": "796 Brogdon Rd, Suwanee, GA 30024, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.08944210000001, "lng": -84.25771689999999 },
-    "address": "5780 Windward Pkwy #100, Alpharetta, GA 30005, United States"
-  },
-  {
-    "name": "Georgia Lane Realty",
-    "discount": "Melissa Reed Hacker 678-371-6549 - FREE home warranty (up to $600) for buyers at closing & various seller listing discounts",
-    "category": "SAMC Family Businesses",
-    "location": { "lat": 34.1960977, "lng": -84.1343724 },
-    "address": "540 Lake Center Pkwy STE 201, Cumming, GA 30040, United States"
+    "name": "Polaris Asset Management - Alan Sell (Jill Sell)",
+    "discount": "20% off investment management fees. alans@polarisassetmgmt.com or 678-765-9779",
+    "category": "SAMC Family Businesses"
   }
 ]
