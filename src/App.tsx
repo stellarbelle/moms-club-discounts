@@ -79,35 +79,61 @@ function App() {
           <TableRow>
             <TableCell>Business Name</TableCell>
             <TableCell>Discount</TableCell>
+            <TableCell>Contact/Website</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
           {filteredList.map((item: Item) => {
-            // let discount = item.discount;
-            // const hasEmail = discount.match(
-            //   /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
-            // );
-            // const phoneNumber = discount.match(
-            //   /^(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
-            // );
-
-            // if (phoneNumber) {
-            //   const arr = discount.split(phoneNumber[0]);
-            //   console.log("phone: ", phoneNumber);
-            //   discount =
-            //     arr[0] +
-            //     `<a html={href="tel:${phoneNumber[0]}"}>${phoneNumber[0]}</>` +
-            //     arr[1];
-            //   console.log("discount: ", discount);
-            // }
-
+            const discount = item.discount;
+            const emails = discount.match(
+              /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
+            );
+            const phoneNumbers = discount.match(
+              /(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
+            );
+            const websites = discount.match(
+              /([\w+]+\:\/\/)?([\w\d-]+\.)*[\w-]+[\.\:]\w+([\/\?\=\&\#\.]?[\w-]+)*\/?/gim
+            );
             if (categoryList.indexOf(item.category) === -1) {
               categoryList.push(item.category);
             }
+            console.log("websites: ", websites);
             return (
               <TableRow key={item.name}>
                 <TableCell>{item.name}</TableCell>
-                <TableCell>{item.discount}</TableCell>
+                <TableCell>{discount}</TableCell>
+                <TableCell>
+                  {phoneNumbers &&
+                    phoneNumbers.map((num) => {
+                      return (
+                        <div>
+                          <a href={`tel:${num}`}>{num}</a>
+                        </div>
+                      );
+                    })}
+                  {emails &&
+                    emails.map((email) => {
+                      return (
+                        <div>
+                          <a href={`mailto:${email}`}>{email}</a>
+                        </div>
+                      );
+                    })}
+                  {websites &&
+                    websites.map((site) => {
+                      return (
+                        site.length > 4 && (
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href={site}
+                          >
+                            {site}
+                          </a>
+                        )
+                      );
+                    })}
+                </TableCell>
               </TableRow>
             );
           })}
