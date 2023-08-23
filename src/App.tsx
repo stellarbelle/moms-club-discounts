@@ -121,17 +121,21 @@ function App() {
                     })}
                   {websites &&
                     websites.map((site) => {
-                      return (
-                        site.length > 4 && (
+                      const website = site.includes("http")
+                        ? site
+                        : `http://${site}`;
+                      const isWebsite = site.length > 4;
+                      if (isWebsite && !site.includes("http")) {
+                        return (
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href={site}
+                            href={website}
                           >
-                            {site}
+                            {website}
                           </a>
-                        )
-                      );
+                        );
+                      }
                     })}
                 </TableCell>
               </TableRow>
