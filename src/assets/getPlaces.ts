@@ -85,15 +85,6 @@ const fetchData = async (item: string[], category: string) => {
   return place;
 };
 
-/*
-itemList takes a list in a string format
-calls getItemsList which parses the string and splits on newline
-creating an array of strings containing place names and discounts
-iteratates over each place in the new array and splits name from discount
-it grabs and filters out the category from the list by checking if discount is present
-saves category as a veriable and passes item and current category into fetchData
-return an items list
-*/
 const itemList = async (list: string) => {
   let category: string;
   const getItemsList = async () => {
@@ -111,5 +102,4 @@ const itemList = async (list: string) => {
 };
 
 const places = await itemList(list);
-// console.log("places: ", places)
 await fsPromises.writeFile(`${__dirname}/list.json`, JSON.stringify(places));

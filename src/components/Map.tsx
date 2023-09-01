@@ -18,12 +18,12 @@ interface Location {
 }
 // const markers = list.map((item: Item, idx: number) => {
 //   const cat = item.category;
-//   const color: string = markerColor[cat];
+//   const color: string = markerColor[cat] || black;
 //   return (
 //     <Marker
 //       position={item.location}
 //       key={`pos ${item.name}${idx}`}
-//       icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
+//       icon={`https://maps.google.com/mapfiles/marker_${color}.png`}
 //     />
 //   );
 // });

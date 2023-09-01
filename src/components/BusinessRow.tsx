@@ -9,16 +9,19 @@ const emailRegex = /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm;
 interface Props {
   businesses: Item[];
   categories: string[];
+  addCategory: (string) => void;
 }
 
-const BusinessRow = (lists: Props) => {
-  return lists.businesses.map((business: Item) => {
+const BusinessRow = (props: Props) => {
+  const { businesses, categories, addCategory } = props;
+  return businesses.map((business: Item) => {
     const discount = business.discount;
     const emails = discount.match(emailRegex);
     const phoneNumbers = discount.match(phoneRegex);
     const websites = discount.match(websiteRegex);
-    if (lists.categories.indexOf(business.category) === -1) {
-      lists.categories.push(business.category);
+    if (categories.indexOf(business.category) === -1) {
+      const updatedCategories = categories.concat(business.category);
+      addCategory(updatedCategories);
     }
     return (
       <TableRow key={business.name}>
