@@ -1,8 +1,8 @@
 import { GoogleMap, Marker, LoadScript } from "@react-google-maps/api";
 import { useEffect, useState } from "react";
-import list from "./assets/list.json";
+import list from "../assets/list.json";
 import "./App.css";
-import { Item } from "./App";
+import { Item } from "../App";
 
 const markerColor: Record<string, string> = {
   "Spa/Salon/Health": "pink-dot",

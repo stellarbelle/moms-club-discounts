@@ -1,5 +1,6 @@
 import { useState } from "react";
 import list from "./assets/list.json";
+import BusinessRow from "./components/BusinessRow";
 import "./App.css";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
@@ -83,64 +84,7 @@ function App() {
           </TableRow>
         </TableHead>
         <TableBody>
-          {filteredList.map((item: Item) => {
-            const discount = item.discount;
-            const emails = discount.match(
-              /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm
-            );
-            const phoneNumbers = discount.match(
-              /(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g
-            );
-            const websites = discount.match(
-              /([\w+]+\:\/\/)?([\w\d-]+\.)*[\w-]+[\.\:]\w+([\/\?\=\&\#\.]?[\w-]+)*\/?/gim
-            );
-            if (categoryList.indexOf(item.category) === -1) {
-              categoryList.push(item.category);
-            }
-            console.log("websites: ", websites);
-            return (
-              <TableRow key={item.name}>
-                <TableCell>{item.name}</TableCell>
-                <TableCell>{discount}</TableCell>
-                <TableCell>
-                  {phoneNumbers &&
-                    phoneNumbers.map((num) => {
-                      return (
-                        <div>
-                          <a href={`tel:${num}`}>{num}</a>
-                        </div>
-                      );
-                    })}
-                  {emails &&
-                    emails.map((email) => {
-                      return (
-                        <div>
-                          <a href={`mailto:${email}`}>{email}</a>
-                        </div>
-                      );
-                    })}
-                  {websites &&
-                    websites.map((site) => {
-                      const website = site.includes("http")
-                        ? site
-                        : `http://${site}`;
-                      const isWebsite = site.length > 4;
-                      if (isWebsite && !site.includes("http")) {
-                        return (
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href={website}
-                          >
-                            {website}
-                          </a>
-                        );
-                      }
-                    })}
-                </TableCell>
-              </TableRow>
-            );
-          })}
+          <BusinessRow businesses={filteredList} categories={categoryList} />
         </TableBody>
       </Table>
     </TableContainer>
