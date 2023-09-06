@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import list from "./assets/list.json";
 import BusinessRow from "./components/BusinessRow";
 import Form from "./components/Form";
@@ -67,6 +67,18 @@ function App() {
     setFilteredList(updatedList);
   };
 
+  const addCategory = (category: string) => {
+    if (categoryList.indexOf(category) === -1) {
+      const updatedCategories = categoryList.concat(category);
+      setCategoryList(updatedCategories);
+    }
+  };
+
+  const businessRows = filteredList.map((business: Item, idx: number) => {
+    addCategory(business.category);
+    return <BusinessRow business={business} key={idx} />;
+  });
+
   const table = (
     <TableContainer sx={{ maxHeight: 440, width: "100%", overflow: "scroll" }}>
       <Table stickyHeader aria-label="sticky table">
@@ -77,13 +89,7 @@ function App() {
             <TableCell>Contact/Website</TableCell>
           </TableRow>
         </TableHead>
-        <TableBody>
-          <BusinessRow
-            businesses={filteredList}
-            categories={categoryList}
-            addCategory={setCategoryList}
-          />
-        </TableBody>
+        <TableBody>{businessRows}</TableBody>
       </Table>
     </TableContainer>
   );
@@ -100,7 +106,6 @@ function App() {
           filterBySearch={filterBySearch}
           getSelectedList={getSelectedList}
         />
-        {/* <Map newCenter={center} /> */}
         <div className="list">{table || "Loading..."}</div>
       </div>
     </>

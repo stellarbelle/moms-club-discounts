@@ -1,7 +1,7 @@
 import { GoogleMap, Marker, LoadScript } from "@react-google-maps/api";
 import { useEffect, useState } from "react";
 import list from "../assets/list.json";
-import "./App.css";
+import "../App.css";
 import { Item } from "../App";
 
 const markerColor: Record<string, string> = {
@@ -16,17 +16,19 @@ interface Location {
   lat: number;
   lng: number;
 }
-// const markers = list.map((item: Item, idx: number) => {
-//   const cat = item.category;
-//   const color: string = markerColor[cat] || black;
-//   return (
-//     <Marker
-//       position={item.location}
-//       key={`pos ${item.name}${idx}`}
-//       icon={`https://maps.google.com/mapfiles/marker_${color}.png`}
-//     />
-//   );
-// });
+const markers = list.map((item: Item, idx: number) => {
+  const cat = item.category;
+  const color: string = markerColor[cat] || "gray";
+  if (item.location) {
+    return (
+      <Marker
+        position={item.location}
+        key={`pos ${item.name}${idx}`}
+        icon={`http:// labs.google.com/ridefinder/images/mm_20_${color}.png`}
+      />
+    );
+  }
+});
 const Map = (loc?: Location) => {
   const [center, setCenter] = useState<Location>(townCenter);
   console.log(center);
@@ -44,19 +46,7 @@ const Map = (loc?: Location) => {
           zoom={13}
           center={center}
         >
-          {list.map((item: Item, idx: number) => {
-            const cat = item.category;
-            const color: string = markerColor[cat];
-            if (item.location) {
-              return (
-                <Marker
-                  position={item.location}
-                  key={`pos ${item.name}${idx}`}
-                  icon={`http://maps.google.com/mapfiles/ms/icons/${color}.png`}
-                />
-              );
-            }
-          })}
+          {markers}
         </GoogleMap>
       </LoadScript>
     </div>

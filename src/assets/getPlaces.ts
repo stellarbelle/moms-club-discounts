@@ -43,19 +43,10 @@ const list = fs.readFileSync(`${__dirname}/list.txt`, "utf8");
 const townCenter = { lat: 34.055371, lng: -84.064106 };
 const radius = 16000;
 
-/*
-fetchData takes a location name and its category
-it then calls Google places API and returns the locations lat and lng
-it calcultales if it is within 15 miles of the Town Center coordinants
-and checks to see if the place is not permanently closed
-if not it creates and returns a new item and incldes location and address
-if API returns error, error is logged
-*/
-
-const fetchData = async (item: string[], category: string) => {
+const fetchData = (item: string[], category: string) => {
   const name = item[0];
   const baseURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${name}&key=AIzaSyBPwgAjsfJCRoR3nGFhZA8YzTzQNC7QUTw&circle:${radius}@${townCenter.lat},${townCenter.lng}`;
-  const place = await axios
+  const place = axios
     .get(baseURL)
     .then((response: { data: { results: results[] } }) => {
       const newItem: Item[] = [];
