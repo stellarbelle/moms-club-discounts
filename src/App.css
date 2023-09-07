@@ -17,7 +17,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #087b9a;
 }
 
 #search-box {
@@ -36,8 +35,6 @@ h1 {
 h1,
 h2 {
   margin-bottom: 0.7rem;
-  font-family: "Alice", serif;
-  color: #f73378;
   font-size: 3.2em;
   line-height: 1.1;
 }
@@ -66,7 +63,6 @@ img {
 .subheading {
   margin-top: 0;
   font-size: 18px;
-  color: #f976a4;
 }
 
 @media (min-width: 320px) {
