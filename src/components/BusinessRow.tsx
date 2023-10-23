@@ -1,31 +1,26 @@
 import { TableRow, TableCell } from "@mui/material";
 import { Item } from "../App";
 
-const websiteRegex =
-  /([\w+]+\:\/\/)?([\w\d-]+\.)*[\w-]+[\.\:]\w+([\/\?\=\&\#\.]?[\w-]+)*\/?/gim;
-const phoneRegex = /(\s{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}.?$/g;
-const emailRegex = /([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gm;
-
 const BusinessRow = ({ business }: { business: Item }) => {
-  const discount = business.discount;
-  const emails = discount.match(emailRegex);
-  const phoneNumbers = discount.match(phoneRegex);
-  const websites = discount.match(websiteRegex);
-  return (
-    <TableRow key={business.name}>
-      <TableCell>{business.name}</TableCell>
+  const { discount, name, phoneNumbers, websites, emailAddresses } = {
+    ...business,
+  };
+  console.log("business: ", business);
+  const rows = (
+    <TableRow key={name}>
+      <TableCell>{name}</TableCell>
       <TableCell>{discount}</TableCell>
       <TableCell>
         {phoneNumbers &&
-          phoneNumbers.map((num, idx) => {
+          phoneNumbers.map((num: string, idx: number) => {
             return (
               <div key={`${num}${idx}`}>
                 <a href={`tel:${num}`}>{num}</a>
               </div>
             );
           })}
-        {emails &&
-          emails.map((email, idx) => {
+        {emailAddresses &&
+          emailAddresses.map((email: string, idx: number) => {
             return (
               <div key={`${email}${idx}`}>
                 <a href={`mailto:${email}`}>{email}</a>
@@ -33,8 +28,10 @@ const BusinessRow = ({ business }: { business: Item }) => {
             );
           })}
         {websites &&
-          websites.map((site, idx) => {
-            const website = site.includes("http") ? site : `http://${site}`;
+          websites.map((site: string, idx: number) => {
+            const website: string = site.includes("http")
+              ? site
+              : `http://${site}`;
             const isWebsite = site.length > 4;
             if (isWebsite && !site.includes("http")) {
               return (
@@ -52,6 +49,7 @@ const BusinessRow = ({ business }: { business: Item }) => {
       </TableCell>
     </TableRow>
   );
+  return rows;
 };
 
 export default BusinessRow;

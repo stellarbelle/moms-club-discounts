@@ -24,7 +24,9 @@ export interface Item {
   location?: { lat: number; lng: number };
   address?: string;
   dist?: number;
-  phone?: string;
+  phoneNumbers?: string[];
+  emailAddresses?: string[];
+  websites?: string[];
 }
 
 const placeList = (list as Item[]).filter((place, index) => {
