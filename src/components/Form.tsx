@@ -12,7 +12,7 @@ interface Props {
   categories: string[];
   value: string;
   filterBySearch: (e: React.ChangeEvent<HTMLInputElement>) => void;
-  getSelectedList: (string) => void;
+  getSelectedList: (arg: string) => void;
 }
 
 const Form = (props: Props) => {
